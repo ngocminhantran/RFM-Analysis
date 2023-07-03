@@ -14,6 +14,9 @@ RFM analysis numerically ranks a customer in each of these three categories, gen
 
 The segmentation is as follows:
 
+<img width="646" alt="Screenshot 2023-07-03 at 16 16 48" src="https://github.com/ngocminhantran/RFM-Analysis/assets/130781119/4d04da17-7232-4cec-8e08-9c4d8f44f9a3">
+<img width="646" alt="Screenshot 2023-07-03 at 16 17 02" src="https://github.com/ngocminhantran/RFM-Analysis/assets/130781119/682edce4-71fd-4c1f-8eb1-eef0c1ef752f">
+
 *Sources: Investopedia, Connectif*
 ### Problem Statement
 This project aims at identifying customer segments for a Global Superstore using RFM Analysis and making strategy recommendations for the marketing team.
@@ -22,6 +25,8 @@ This project aims at identifying customer segments for a Global Superstore using
 2. Give insights and recommendations
 ## Project Output
 ### Customer segmentation
+<img width="516" alt="Screenshot 2023-07-03 at 12 10 00" src="https://github.com/ngocminhantran/RFM-Analysis/assets/130781119/269e5528-6d0a-4028-88fc-94cbf964ce9c">
+
 ### Insights and recommendation
 - Potential loyalist account for the largest proportion in the list of customer segments (14.3%). These customers have made several orders with Superstore and might have come back recently, yet their total spending is quite low or just average. For this segment, Superstore is recommended to involve them in loyalty programs (membership program,...). There should be product recommendation and discount offers for them.
 - Unfortunately, at risk, hibernating and lost customers segments rank second, third and fourth (12.1%, 11.4% and 10.5% respectively). 34% of Superstore customers have not made any recent purchases, which is alarming. For At risk and Hibernating customers, Superstore can send personalized messages, special offers, relevant product recommendations to reconnect with them. Lost customers can be ignored if both mass and personalized campaigns don't work for them
